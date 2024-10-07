@@ -12,4 +12,4 @@ python = "^3.11"
 [tool.poetry.group.dev.dependencies]
 python-debian = "0.1.49"
 pysequoia = "0.1.24"
-pytest = "^7.2.0"
+pytest = "^8.3.3"
